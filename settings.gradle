@@ -1,0 +1,1 @@
+include ':amvp', ':sample', ':sample-network', ':sample-network-di'

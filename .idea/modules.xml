@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AMVP-master.iml" filepath="$PROJECT_DIR$/AMVP-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amvp/amvp.iml" filepath="$PROJECT_DIR$/amvp/amvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-network/sample-network.iml" filepath="$PROJECT_DIR$/sample-network/sample-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-network-di/sample-network-di.iml" filepath="$PROJECT_DIR$/sample-network-di/sample-network-di.iml" />
+    </modules>
+  </component>
+</project>
